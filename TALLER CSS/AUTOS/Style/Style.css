@@ -1,0 +1,108 @@
+ 	/* TATIANA MARCELA CARTAGENA */
+	
+.principal{
+	 width:100%;
+	 height:25%;
+	 background-color:#F0D8E0;
+	 width: 100%; 
+	 height: 22%; 
+	}
+
+
+
+h2{
+	
+	text-align:center;
+	}
+
+h4{
+	text-align:center;
+
+	}
+
+.titulo{
+	padding-left:45%;
+	}
+
+ .img{
+	 width:30%;
+	 height:106%;
+
+	 }
+
+ .enlaces{
+	 height:100%;
+	 background:#EABC6D;
+	 width:30%;
+	 height:100%;
+	 float: right;
+	 float:left;
+
+	}
+ .enlaces2{
+
+	 margin-left:37%;
+
+	}
+	
+.centro1{
+	height:100px; 
+	background:#24E6AE; 
+	width: 40%; 
+	height: 100%;
+	float: right; 
+	float:left;
+	}
+
+.parrafo{
+	margin-left:2%;
+	margin-right:2%;
+		 
+	}
+
+
+
+
+.intro{
+	background:#9124E6;  
+	width: 30%; 
+	height: 100%;
+	margin-left:70%;
+    }
+
+.intro2{
+	text-align:center;
+	float: left;
+	margin: 0 auto;
+	 }
+	 
+.img2{
+	
+ margin-left:1%;
+ width:80%;
+ height:40%;
+	
+}
+
+.img3{
+	
+width:100%;
+height:84%;
+}
+	
+	 
+ .datos{
+	 width:100%; 
+	 height:25%; 
+	 background:#9F6E80;
+     }
+	 
+ .tdatos{
+	 
+	 margin-left:2%;
+	 text-align:center;
+ }
+ 
+ 
+ 
+ 
